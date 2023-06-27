@@ -1,6 +1,17 @@
+👋 Hi, I’m @carloscanodomingo 
+🎓 I am PhD. in electromagnetic signal analysis using new methods including artifitial intelligence. 
+
+👀 I’m interested in mainly 5 topics.
 
 
-<!---
-carloscanodomingo/carloscanodomingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎹Deep Learning hybrid Techniques.
+💻 Machine Learning algorithm and Statistic in general.
+💎Hyperparameter tuning and MetaLearning algorithm.
+📲Embedded programing in C/C++
+🌎 Earth-Ionosphere resonance
+🌱 Rust programing.
+
+
+💞️ I’m looking to collaborate on the development of Deep Learning algorithm.
+
+📫 How to reach me carloscanodomingo@gmail.com
